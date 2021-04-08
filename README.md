@@ -15,7 +15,7 @@ Esse projeto está utilizando as seguintes tecnologias:
 ## How to use/Como utilizar 🎲
 ```bash
 # Clone esse repositório
-$ git clone https://github.com/rafaasimi/maratona-discover-rocketseat.git
+$ git clone https://github.com/AlexShyjada/dev-finance.git
 
 # Inicie a aplicação
 $ open index.html
