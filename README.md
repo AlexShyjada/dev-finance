@@ -20,5 +20,5 @@ $ git clone https://github.com/AlexShyjada/dev-finance.git
 # Inicie a aplicação
 $ open index.html
 
-
+-----
 Criado com 💙 por [Alexandre Shyjada](https://www.linkedin.com/in/alexshyjada/)
