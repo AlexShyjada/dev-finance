@@ -79,27 +79,53 @@ header{
 /* ================ transactions =================*/
 
 #data-table{
+  color: #969cb3;
   width: 100%;
-  border-spacing: 1rem 0;
+  border-spacing: 0 0.5rem;
 }
 
-table th{
-  background: #fff;
-  color: #969cb3;
+table thead tr th:first-child,
+table tbody tr td:first-child{
+  border-radius: 0.25rem 0 0 0.25rem;
+}
+
+table thead th{
+  background: #fff;  
   padding: 1rem 2rem;
   font-weight: 400;
   text-align: left;
 }
 
-table td{
+table tbody tr{
+  opacity: 0.7;
+}
+
+table tbody tr:hover{
+  opacity: 1;
+}
+
+table tbody td{
   background: #fff;
+  padding: 1rem 2rem;
+}
+
+td.drecription{
+  color: var(--dark-blue);
+}
+
+td.income{
+  color: #12a454;
+}
+
+td.expense{
+  color: #e92929;
 }
 
 /* ================ Footer =================*/
 
-#footer{
+footer{
   text-align: center;
+  color: var(--dark-blue);  
+  padding: 4rem 0 2rem;
+  opacity: 0.6;
 }
-
-
-
