@@ -1,3 +1,5 @@
+//=============== Nova transação ===============
+
 const Modal = {
   open(){
     document
@@ -12,6 +14,8 @@ const Modal = {
       .remove('active')
   }
 }
+
+//=============== Data table ===============
 
 const transaction = [
   {
