@@ -1,26 +1,40 @@
-# Modified dev.finance 💰
+## dev.finance$
 
-## Description/Descrição 🔖
-This finance aplication was made and modified on "Maratona Discover Week" by [Rocketseat 💜](https://rocketseat.com.br/)
+Esse é um projeto desenvolvido na [Maratona Discover](https://rocketseat.com.br/discover) da [Rocketseat](https://rocketseat.com.br/) em HTML, CSS e Javascript. No entanto eu sendo EU, obviamente costumo me empolgar com progressos quando estou aprendendo algo, por isso decidi criar minha própria versão desse projeto com darkmode, uma paleta de cores escolhida a dedo, e claro, usando React, Typescript e Sass, ou seja: boa parte dos conceitos que aprendi no [Ignite](https://rocketseat.com.br/ignite).
 
-Essa aplicação de finanças foi desenvolvida e modificada na semana da Maratona Discover da [Rocketseat 💜](https://rocketseat.com.br/) 
+---
 
+## Preview
 
-## Technologies/Tecnologias 🚀
-On This project we are using the technologies below:
+<p align="center"> <img src="/project/public/preview.png" alt="preview"> </p>
 
-Esse projeto está utilizando as seguintes tecnologias:
+---
 
+## Tecnologias
 
-- HTML
-- CSS
-- JavaScript
+- [ReactJS](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
 
+---
 
-## How to use/Como utilizar 🎲
+### **Iniciando o projeto**
+
 ```bash
-# Clone esse repositório
-$ git clone https://github.com/AlexShyjada/dev-finance.git
+# Você precisa ter node na sua máquina para rodar o projeto
+# Não lembra se possui o node? Execute node -v no seu terminal
+$ node -v
 
-# Inicie a aplicação
-$ open index.html
+# Execute npm install para instalar as dependências
+$ npm install
+
+# Execute npm start para iniciar a aplicação 
+$ npm start
+
+# A página será aberta em localhost na porta indicada no seu terminal (:
+
+```
+
+---
+
+Feito por [Alexandre Shyjada](https://www.alexshyjada.com/) 😎
