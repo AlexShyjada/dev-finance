@@ -49,4 +49,41 @@ button {
   opacity: 0.6;
   cursor: not-not-allowed;
 }
+
+.newTransactionModalOrverlay{
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.newTransactionModalContent{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 576px;
+  background: var(--background);
+  padding: 6.4rem 4.8rem;
+  position: relative;
+  border-radius: 0.5rem;
+}
+
+.modalClose{
+  position: absolute;
+  border: none;
+  top: 3rem;
+  right: 3rem;
+  background: transparent;
+  transition: 0.3s;
+
+  &:hover{
+    filter: brightness(0.7)
+  }
+}
+
 `

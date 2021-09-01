@@ -7,6 +7,7 @@ Esse é um projeto desenvolvido na [Maratona Discover](https://rocketseat.com.br
 ## Preview
 
 <p align="center"> <img src="/project/public/preview.png" alt="preview"> </p>
+<p align="center"> <img src="/project/public/preview2.png" alt="preview2"> </p>
 
 ---
 

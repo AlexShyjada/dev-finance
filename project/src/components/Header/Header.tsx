@@ -1,9 +1,14 @@
-import logo from '../../assets/logo.svg'
 import {Container} from './styles'
 import {Content} from './styles'
 import {Buttons} from './styles'
+import logo from '../../assets/logo.svg'
 
-export default function index() {
+interface IHeaderProps {
+  onOpenNewTransactionModal: () => void;
+}
+
+export default function Header({onOpenNewTransactionModal}: IHeaderProps) {
+
   return (
     <Container>
       <Content>
@@ -20,10 +25,12 @@ export default function index() {
             </div>
           </label>
           
-          <button type="button">
+          <button type="button" onClick={onOpenNewTransactionModal}>
             + Nova Transação
           </button>
         </Buttons>
+
+
       </Content>
     </Container>
   )

@@ -73,9 +73,8 @@ gap: 2.5rem;
         transform: translateX(15px);
       }
     }
-
   }
-  
+
   button{
     color: var(--textwhite);
     font-size: 1.4rem;
@@ -84,10 +83,11 @@ gap: 2.5rem;
     border: solid 1px var(--blueLight);
     border-radius: 0.5rem;
     transition: 0.3s;
-  }
-  button:hover{
-    color: var(--textBlack);
-    background: var(--blueLight);
+
+    &:hover{
+      color: var(--textBlack);
+      background: var(--blueLight);
+    }
   }
 
 `
