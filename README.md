@@ -15,7 +15,7 @@ Esse é um projeto desenvolvido na [Maratona Discover](https://rocketseat.com.br
 
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Sass](https://sass-lang.com/)
+- [Styled Components](https://styled-components.com/)
 
 ---
 
