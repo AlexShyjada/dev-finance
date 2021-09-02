@@ -1,6 +1,6 @@
 ## dev.finance$
 
-Esse é um projeto desenvolvido na [Maratona Discover](https://rocketseat.com.br/discover) da [Rocketseat](https://rocketseat.com.br/) em HTML, CSS e Javascript. No entanto eu sendo EU, obviamente costumo me empolgar com progressos quando estou aprendendo algo, por isso decidi criar minha própria versão desse projeto com darkmode, uma paleta de cores escolhida a dedo, e claro, usando React, Typescript e Sass, ou seja: boa parte dos conceitos que aprendi no [Ignite](https://rocketseat.com.br/ignite).
+Esse é um projeto desenvolvido na [Maratona Discover](https://rocketseat.com.br/discover) da [Rocketseat](https://rocketseat.com.br/) em HTML, CSS e Javascript. No entanto eu sendo EU, obviamente costumo me empolgar com progressos quando estou aprendendo algo, por isso decidi criar minha própria versão desse projeto com darkmode, uma paleta de cores escolhida a dedo, e claro, usando React, Typescript e Styled Components, ou seja: boa parte dos conceitos que aprendi no [Ignite](https://rocketseat.com.br/ignite).
 
 ---
 
